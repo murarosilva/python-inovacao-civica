@@ -33,3 +33,5 @@ $ pip install -r requirements.txt
 Vou sugerir duas opções caso você não queira executar o projeto no seu computador. A primeira sugestão é utilizar o [Google Colab](https://colab.research.google.com/). Você pode fazer o upload do notebook para o seu drive, e abrir via Google Colab. No módulo 0, na aula sobre *ferramentas para programar em python*, você pode encontrar o passo a passo de como usar o Google Colab.
 
 A segunda sugestão é executar no Binder, faça um fork desse repositório, acesso o site do [Binder nesse link](https://mybinder.org) e informa a url do repositório. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/escola-de-dados/python-inovacao-civica.git/HEAD)
