@@ -34,4 +34,8 @@ Vou sugerir duas opções caso você não queira executar o projeto no seu compu
 
 A segunda sugestão é executar no Binder, faça um fork desse repositório, acesso o site do [Binder nesse link](https://mybinder.org) e informa a url do repositório. 
 
+Meu Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/murarosilva/python-inovacao-civica/HEAD)
+
+Binder da Escola
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/escola-de-dados/python-inovacao-civica.git/HEAD)
